@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Title</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" >
+
+    <style>
+        html, body { width: 100%; padding: 0px; margin: 0px; }
+        .innerItem { cursor: pointer; padding: 10px; line-height: 1.2em; border: 1px solid #EEE; width: 30%; border-radius: .4em;  float: left; margin: 10px; }
+        .innerItem:hover { background-color: #EEE; }
+        .scwilBoldLabels { font-weight: bold;  letter-spacing: -.03em; }
+        .circle_focusgoals { padding: 10px; }
+        .circleHideText { display: none; }
+    </style>
+  </head>
+  <body>
+      
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="//code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    
+    <div style="border: 1px solid black; ">
+        <div style="width: 48%; display: inline-block; text-align: center;"><input type="text" placeholder="Enter a city name, region name, etc." class="scwil-text-search" style="width: 90%; margin: 0 auto;"></div>
+        <div style="width: 48%; display: inline-block;"><select class="scwil_circlesSelectRegion"><option value="This is a test">Select a circle type</option></select></div>
+    </div>
+    <div class="scwil_outer_block"></div>
+
+
+
+
+    <script>
+        var fullArr = [];
+        $(document).ready(function(){
+            
+            //fetch('./data/circles_of_women_test.json')
+            fetch('https://cdn.jsdelivr.net/gh/tamaker/scwil-circles-listing/circles_of_women_test.json')
+                .then(response => response.json())
+                //.then(data => console.log(data))
+                .then(data => doLoop(data))
+
+            var categoriesArr = [];
+            function doLoop(dataOut){
+                
+                $(dataOut).each(function(i, val){
+                    //console.log(val);
+                    var thisCategories = val['categories'].split(', ');
+                    $.each(thisCategories, function(cat_i, cat_val){
+                        if (!categoriesArr.includes(cat_val)){
+                                categoriesArr.push(cat_val);
+                                $('.scwil_circlesSelectRegion').append('<option value="' + cat_val + '">' + cat_val + '</option>')
+                        }
+                    })
+                    if (val['visible'] === 'TRUE'){
+                        var new_html_element = $.parseHTML(html_element);
+                        //console.log($.parseHTML(new_html_element))
+                        var html_element = '<div class="innerItem">'
+                                    html_element += '<table data-visible="' + val['visible'] + '" data-categories="' + val['categories'] + '">'
+                                        html_element += '<tr><td class="circle_name"><h4>' + val['circle_name'] + '</h4></td></tr>'
+                                        html_element += '<tr><td class="circle_city"><span class="scwilBoldLabels">City:</span> ' + val['city'] + ' &nbsp; &nbsp; <span class="scwilBoldLabels">Region:</span> ' + val['region'] + '</td></tr>'
+                                        html_element += '<tr><td class="circle_type"><span class="scwilBoldLabels">Type:</span> <span style="text-transform: capitalize">' + val['categories'] + '</span></td></tr>'
+                                        html_element += '<tr><td class="circle_newmembers"><span class="scwilBoldLabels">Accepting New Members:</span> ' + val['accepting_members'] + '</td></tr>'
+                                        html_element += '<tr><td class="circle_leader circleHideText"><span class="scwilBoldLabels">Circle Leader:</span> <a href="mailto:' + val['circle_leader_email'] + '">' + val['circle_leader_name'] + '</a></td></tr>'
+                                        html_element += '<tr><td class="circle_focusgoals circleHideText">' + val['focus_goals'] + '</td></tr>'
+                                    html_element += '</table>'
+                            html_element += '</div>'
+                        
+                        $('.scwil_outer_block').append(html_element)
+                    }
+                })
+                if (i = 1){
+                    $('.innerItem').on('click', function(){
+                        if (!$(this).hasClass('showFullInnerItem')){
+                            $(this).find('.circleHideText').addClass('circleHideTextRemoved').removeClass('circleHideText')
+                            $(this).addClass('showFullInnerItem')
+                        } else {
+                                $(this).find('.circleHideTextRemoved').addClass('circleHideText').removeClass('circleHideTextRemoved')
+                                $(this).removeClass('showFullInnerItem')
+                        }
+                    });
+
+                    $('.scwil-text-search').keyup(function() {
+                        var scwilsearchstring = $(this).val();
+                        //console.log(scwilsearchstring);
+                        $('.innerItem').each(function(i, val){
+                            if ($('.innerItem').eq(i).text().toLowerCase().indexOf(scwilsearchstring.toLowerCase()) > -1){
+                                    $(this).show();
+                            } else {
+                                    $(this).hide();
+                            }
+                        })
+                    })
+
+                    $('.scwil_circlesSelectRegion').on('change', function(){
+                        if ($('.scwil_circlesSelectRegion option:selected').text() === 'Select a circle type'){
+                                $('.innerItem').show();
+                        } else {
+                            $('.innerItem').each(function(i, val){
+                                    if ($('.innerItem').find('table').eq(i).attr('data-categories').indexOf($('.scwil_circlesSelectRegion option:selected').text()) > -1){
+                                            $(this).show()
+                                    } else {
+                                            $(this).hide();
+                                    }
+                            })
+                        }
+                    })
+                }
+
+                console.log('--------------')
+                console.log(categoriesArr)
+                console.log('--------------')
+            }
+
+        });
+
+       
+    </script>
+  </body>
+</html>
