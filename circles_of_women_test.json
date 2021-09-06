@@ -1,79 +1,83 @@
 [
   {
-    "circle_name": "Dee’s Midlands Circle",
-    "region": "Midlands",
-    "categories": "Regional",
-    "accepting_members": "No",
-    "circle_leader_name": "Dee Bell-Williams",
-    "meeting_frequency_message": "4th Wednesday of the month at 6 p.m. via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "We come together each month to build the skills we need on our leadership journeys.",
-    "visible": "TRUE"
+    "Circle Name": "Dee’s Midlands Circle",
+    "Region": "Midlands",
+    "Type": "Regional",
+    "Accepting New Members": "No",
+    "Circle Leader": "Dee Bell-Williams",
+    "Meets": "4th Wednesday of the month at 6 p.m. via Zoom",
+    "Text": "We come together each month to build the skills we need on our leadership journeys."
   },
   {
-    "circle_name": "Carol's Midlands Circle",
-    "region": "Midlands",
-    "categories": "Regional",
-    "accepting_members": "Yes",
-    "circle_leader_name": "Carol Kennedy",
-    "meeting_frequency_message": "4th Tuesday of the month at 12 p.m. via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "Together we focus on personal, professional, and political development.",
-    "visible": "TRUE"
+    "Circle Name": "Carol's Midlands Circle",
+    "Region": "Midlands",
+    "Type": "Regional",
+    "Accepting New Members": "Yes",
+    "Circle Leader": "Carol Kennedy",
+    "Meets": "4th Tuesday of the month at 12 p.m. via Zoom",
+    "Text": "Together we focus on personal, professional, and political development."
   },
   {
-    "circle_name": "Heather’s Lowcountry Circle",
-    "region": "Lowcountry",
-    "categories": "Regional",
-    "accepting_members": "Yes",
-    "circle_leader_name": "Heather Odom",
-    "meeting_frequency_message": "2nd Tuesday of the month at 6 p.m. via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "We support one another through life’s challenges, push ourselves to meet our goals, and expand our reach.",
-    "visible": "TRUE"
+    "Circle Name": "Heather’s Lowcountry Circle",
+    "Region": "Lowcountry",
+    "Type": "Regional",
+    "Accepting New Members": "Yes",
+    "Circle Leader": "Heather Odom",
+    "Meets": "2nd Tuesday of the month at 6 p.m. via Zoom",
+    "Text": "We support one another through life’s challenges, push ourselves to meet our goals, and expand our reach."
   },
   {
-    "circle_name": "Education and Civic Engagement Circle",
-    "region": "Statewide",
-    "categories": "Issue",
-    "accepting_members": "No",
-    "circle_leader_name": "Karin Sisk",
-    "meeting_frequency_message": "3rd Wednesday of the month at 6:30 p.m.",
-    "circle_leader_email": "",
-    "focus_goals": "A safe space to share, support, and build skills to empower women and increase equity in all areas of engagement. We're passionate about deepening personal, group, and public education.\\",
-    "visible": "TRUE"
+    "Circle Name": "Education and Civic Engagement Circle",
+    "Region": "Statewide",
+    "Type": "Issue",
+    "Accepting New Members": "No",
+    "Circle Leader": "Karin Sisk",
+    "Meets": "3rd Wednesday of the month at 6:30 p.m. via Zoom",
+    "Text": "A safe space to share, support, and build skills to empower women and increase equity in all areas of engagement. We're passionate about deepening personal, group, and public education.\\"
   },
   {
-    "circle_name": "Amanda's Upstate Circle",
-    "region": "Upstate",
-    "categories": "Regional",
-    "accepting_members": "No",
-    "circle_leader_name": "Amanda McDougald Scott",
-    "meeting_frequency_message": "Monthly via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "Our new Circle is still setting its direction!",
-    "visible": "TRUE"
+    "Circle Name": "Amanda's Upstate Circle",
+    "Region": "Upstate",
+    "Type": "Regional",
+    "Accepting New Members": "No",
+    "Circle Leader": "Amanda McDougald Scott",
+    "Meets": "Monthly via Zoom",
+    "Text": "Our new Circle is still setting its direction!"
   },
   {
-    "circle_name": "Angela's Midlands Circle",
-    "region": "Midlands",
-    "categories": "Regional",
-    "accepting_members": "Yes",
-    "circle_leader_name": "Angela Rodriguez",
-    "meeting_frequency_message": "4th Monday of the month at 6 p.m.",
-    "circle_leader_email": "",
-    "focus_goals": "Our Circle's goals are to connect and network with more women, learn more about communication across lines - political, race, generation, and making a difference through community engagement.",
-    "visible": "TRUE"
+    "Circle Name": "Angela's Midlands Circle",
+    "Region": "Midlands",
+    "Type": "Regional",
+    "Accepting New Members": "Yes",
+    "Circle Leader": "Angela Rodriguez",
+    "Meets": "4th Monday of the month at 6 p.m. via Zoom",
+    "Text": "Our Circle's goals are to connect and network with more women, learn more about communication across lines - political, race, generation, and making a difference through community engagement."
   },
   {
-    "circle_name": "Mentoring and Networking Circle",
-    "region": "Statewide",
-    "categories": "Issue",
-    "accepting_members": "Yes",
-    "circle_leader_name": "Carol Moore",
-    "meeting_frequency_message": "Monthly via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "We learn strategies for finding mentors, making the most out of your mentor relationship, building a strong professional network, and leadership development.",
-    "visible": "TRUE"
+    "Circle Name": "Mentoring and Networking Circle",
+    "Region": "Statewide",
+    "Type": "Issue",
+    "Accepting New Members": "Yes",
+    "Circle Leader": "Carol Moore",
+    "Meets": "1st Thursday of the month at 5:30 p.m. via Zoom",
+    "Text": "We learn strategies for finding mentors, making the most out of your mentor relationship, building a strong professional network, and leadership development."
+  },
+  {
+    "Circle Name": "What's Next Circle",
+    "Region": "Statewide",
+    "Type": "Issue",
+    "Accepting New Members": "Yes",
+    "Circle Leader": "Jessica Daly",
+    "Meets": "Monthly via Zoom",
+    "Text": "https://campaignsondemand.wufoo.com/forms/q10ymeoe02jb9uw/"
+  },
+  {
+    "Circle Name": "SC WIL Buquilla's Pee Dee Circle",
+    "Region": "Pee Dee",
+    "Type": "Regional",
+    "Accepting New Members": "Yes",
+    "Circle Leader": "Buquilla Cannon",
+    "Meets": "Monthly via Zoom",
+    "Text": "Coming soon!"
   }
 ]
