@@ -8,7 +8,7 @@
     "meeting_frequency_message": "4th Wednesday of the month at 6 p.m. via Zoom",
     "circle_leader_email": "",
     "focus_goals": "We come together each month to build the skills we need on our leadership journeys.",
-    "visible": ""
+    "visible": "TRUE"
   },
   {
     "circle_name": "Carol's Midlands Circle",
@@ -19,7 +19,7 @@
     "meeting_frequency_message": "4th Tuesday of the month at 12 p.m. via Zoom",
     "circle_leader_email": "",
     "focus_goals": "Together we focus on personal, professional, and political development.",
-    "visible": ""
+    "visible": "TRUE"
   },
   {
     "circle_name": "Heather’s Lowcountry Circle",
@@ -30,7 +30,7 @@
     "meeting_frequency_message": "2nd Tuesday of the month at 6 p.m. via Zoom",
     "circle_leader_email": "",
     "focus_goals": "We support one another through life’s challenges, push ourselves to meet our goals, and expand our reach.",
-    "visible": ""
+    "visible": "TRUE"
   },
   {
     "circle_name": "Education and Civic Engagement Circle",
@@ -41,7 +41,7 @@
     "meeting_frequency_message": "3rd Wednesday of the month at 6:30 p.m. via Zoom",
     "circle_leader_email": "",
     "focus_goals": "A safe space to share, support, and build skills to empower women and increase equity in all areas of engagement. We're passionate about deepening personal, group, and public education.\\",
-    "visible": ""
+    "visible": "TRUE"
   },
   {
     "circle_name": "Amanda's Upstate Circle",
@@ -52,7 +52,7 @@
     "meeting_frequency_message": "Monthly via Zoom",
     "circle_leader_email": "",
     "focus_goals": "Our new Circle is still setting its direction!",
-    "visible": ""
+    "visible": "TRUE"
   },
   {
     "circle_name": "Angela's Midlands Circle",
@@ -63,7 +63,7 @@
     "meeting_frequency_message": "4th Monday of the month at 6 p.m. via Zoom",
     "circle_leader_email": "",
     "focus_goals": "Our Circle's goals are to connect and network with more women, learn more about communication across lines - political, race, generation, and making a difference through community engagement.",
-    "visible": ""
+    "visible": "TRUE"
   },
   {
     "circle_name": "Mentoring and Networking Circle",
@@ -74,7 +74,7 @@
     "meeting_frequency_message": "1st Thursday of the month at 5:30 p.m. via Zoom",
     "circle_leader_email": "",
     "focus_goals": "We learn strategies for finding mentors, making the most out of your mentor relationship, building a strong professional network, and leadership development.",
-    "visible": ""
+    "visible": "TRUE"
   },
   {
     "circle_name": "What's Next Circle",
@@ -85,7 +85,7 @@
     "meeting_frequency_message": "Monthly via Zoom",
     "circle_leader_email": "",
     "focus_goals": "https://campaignsondemand.wufoo.com/forms/q10ymeoe02jb9uw/",
-    "visible": ""
+    "visible": "TRUE"
   },
   {
     "circle_name": "SC WIL Buquilla's Pee Dee Circle",
@@ -96,6 +96,6 @@
     "meeting_frequency_message": "Monthly via Zoom",
     "circle_leader_email": "",
     "focus_goals": "Coming soon!",
-    "visible": ""
+    "visible": "TRUE"
   }
 ]
