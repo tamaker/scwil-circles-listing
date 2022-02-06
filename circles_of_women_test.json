@@ -41,8 +41,8 @@
     "categories": "Issue",
     "accepting_members": "Yes",
     "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Karin Sisk",
-    "meeting_frequency_message": "3rd Wednesday of the month at 6:30 p.m. via Zoom",
+    "circle_leader_name": "Trish Johnson",
+    "meeting_frequency_message": "1st Tuesday of the month at 12 p.m. via Zoom",
     "circle_leader_email": "",
     "focus_goals": "A safe space to share, support, and build skills to empower women and increase equity in all areas of engagement. We're passionate about deepening personal, group, and public education.\\",
     "visible": "TRUE"
@@ -51,7 +51,7 @@
     "circle_name": "Amanda's Upstate Circle",
     "region": "Upstate",
     "categories": "Regional",
-    "accepting_members": "No",
+    "accepting_members": "Yes",
     "accepting_members_link": "",
     "circle_leader_name": "Amanda McDougald Scott",
     "meeting_frequency_message": "3rd Monday of the month at 12 p.m. via Zoom",
@@ -132,7 +132,7 @@
     "visible": "TRUE"
   },
   {
-    "circle_name": "Citadel Collegiate Circle",
+    "circle_name": "Ladies of the River Collegiate Circle",
     "region": "Lowcountry",
     "categories": "Collegiate",
     "accepting_members": "Yes",
@@ -141,6 +141,30 @@
     "meeting_frequency_message": "Monthly",
     "circle_leader_email": "",
     "focus_goals": "Our Circle for female cadets at the Citadel is focused on mentorship, networking, and preparing for life after graduation.",
+    "visible": "TRUE"
+  },
+  {
+    "circle_name": "USC Undergraduate Collegiate Circle",
+    "region": "Midlands",
+    "categories": "Collegiate",
+    "accepting_members": "Yes",
+    "accepting_members_link": "",
+    "circle_leader_name": "Mary Alexander",
+    "meeting_frequency_message": "Coming soon!",
+    "circle_leader_email": "",
+    "focus_goals": "Our Circle for undergraduate students at USC focuses on helping young women maintain their momentum, building networks, and discovering new opportunities so they can achieve their leadership goals after graduation",
+    "visible": "TRUE"
+  },
+  {
+    "circle_name": "USC Graduate Student Collegiate Circle",
+    "region": "Midlands",
+    "categories": "Collegiate",
+    "accepting_members": "Yes",
+    "accepting_members_link": "",
+    "circle_leader_name": "Elaine Ng",
+    "meeting_frequency_message": "Coming soon!",
+    "circle_leader_email": "",
+    "focus_goals": "Our Circle is made up of graduate students at USC who want to focus on mentorship, building connections, and meeting inspiring women.",
     "visible": "TRUE"
   }
 ]
