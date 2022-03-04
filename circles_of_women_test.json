@@ -190,5 +190,17 @@
     "circle_leader_email": "",
     "focus_goals": "Our Civic Circle is where women from Hampton County come together to solve issues in their community while simultaneously ensuring that each circle member is on a pathway to leadership.",
     "visible": "TRUE"
+  },
+  {
+    "circle_name": "Real Estate Investment Circle",
+    "region": "Statewide",
+    "categories": "Issue",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://campaignsondemand.wufoo.com/forms/q1fm4xjz1fcga2s/",
+    "circle_leader_name": "Elayne Brunson",
+    "meeting_frequency_message": "TBD",
+    "circle_leader_email": "",
+    "focus_goals": "Our Circle is for women who are new to real estate investment or interested in learning how to get started.",
+    "visible": "TRUE"
   }
 ]
