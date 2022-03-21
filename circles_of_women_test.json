@@ -1,53 +1,5 @@
 [
   {
-    "circle_name": "Dee’s Midlands Circle",
-    "region": "Midlands",
-    "categories": "Regional",
-    "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Dee Bell-Williams",
-    "meeting_frequency_message": "on 4th Wednesday of the month at 6 p.m. via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "We come together each month to build the skills we need on our leadership journeys.",
-    "visible": "TRUE"
-  },
-  {
-    "circle_name": "Carol's Midlands Circle",
-    "region": "Midlands",
-    "categories": "Regional",
-    "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Carol Kennedy",
-    "meeting_frequency_message": "on 4th Tuesday of the month at 12 p.m. via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "Together we focus on personal, professional, and political development.",
-    "visible": "FALSE"
-  },
-  {
-    "circle_name": "Heather’s Lowcountry Circle",
-    "region": "Lowcountry",
-    "categories": "Regional",
-    "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Heather Odom",
-    "meeting_frequency_message": "on 2nd Tuesday of the month at 6 p.m. via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "We support one another through life’s challenges, push ourselves to meet our goals, and expand our reach.",
-    "visible": "TRUE"
-  },
-  {
-    "circle_name": "Lead Like a Woman Circle",
-    "region": "Statewide",
-    "categories": "Issue",
-    "accepting_members": "Yes",
-    "accepting_members_link": "https://campaignsondemand.wufoo.com/forms/qdisk5i0u2xksl/",
-    "circle_leader_name": "Trish Johnson",
-    "meeting_frequency_message": "on 1st Tuesday of the month at 12 p.m. via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "Our lunch and learn style Circle delves into what female leadership looks like, how we can be and support better leaders, and hear from women in power.",
-    "visible": "TRUE"
-  },
-  {
     "circle_name": "Amanda's Upstate Circle",
     "region": "Upstate",
     "categories": "Regional",
@@ -72,30 +24,6 @@
     "visible": "TRUE"
   },
   {
-    "circle_name": "Mentoring and Networking Circle",
-    "region": "Statewide",
-    "categories": "Issue",
-    "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Carol Moore",
-    "meeting_frequency_message": "on 1st Thursday of the month at 5:30 p.m. via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "We learn strategies for finding mentors, making the most out of your mentor relationship, building a strong professional network, and leadership development.",
-    "visible": "TRUE"
-  },
-  {
-    "circle_name": "What's Next Circle",
-    "region": "Statewide",
-    "categories": "Professional",
-    "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Jessica Daly",
-    "meeting_frequency_message": "on Last Wednesday of the month at 5 p.m.",
-    "circle_leader_email": "",
-    "focus_goals": "Led by a professional career counselor, our Circle is for women in periods of transition in their lives wondering \"what's next?\"",
-    "visible": "TRUE"
-  },
-  {
     "circle_name": "Buquilla's Pee Dee Circle",
     "region": "Pee Dee",
     "categories": "Regional",
@@ -105,6 +33,30 @@
     "meeting_frequency_message": "on 1st Monday of the month at 6 pm",
     "circle_leader_email": "",
     "focus_goals": "Our Circle is interested in mental health, supporting special needs families, pursuing our dream careers, seeking appointed office, and networking.",
+    "visible": "TRUE"
+  },
+  {
+    "circle_name": "Carol's Midlands Circle",
+    "region": "Midlands",
+    "categories": "Regional",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "Carol Kennedy",
+    "meeting_frequency_message": "on 4th Tuesday of the month at 12 p.m. via Zoom",
+    "circle_leader_email": "",
+    "focus_goals": "Together we focus on personal, professional, and political development.",
+    "visible": "FALSE"
+  },
+  {
+    "circle_name": "Dee’s Midlands Circle",
+    "region": "Midlands",
+    "categories": "Regional",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "Dee Bell-Williams",
+    "meeting_frequency_message": "on 4th Wednesday of the month at 6 p.m. via Zoom",
+    "circle_leader_email": "",
+    "focus_goals": "We come together each month to build the skills we need on our leadership journeys.",
     "visible": "TRUE"
   },
   {
@@ -132,6 +84,18 @@
     "visible": "TRUE"
   },
   {
+    "circle_name": "Heather’s Lowcountry Circle",
+    "region": "Lowcountry",
+    "categories": "Regional",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "Heather Odom",
+    "meeting_frequency_message": "on 2nd Tuesday of the month at 6 p.m. via Zoom",
+    "circle_leader_email": "",
+    "focus_goals": "We support one another through life’s challenges, push ourselves to meet our goals, and expand our reach.",
+    "visible": "TRUE"
+  },
+  {
     "circle_name": "Ladies of the River Collegiate Circle",
     "region": "Lowcountry",
     "categories": "Collegiate",
@@ -144,27 +108,27 @@
     "visible": "TRUE"
   },
   {
-    "circle_name": "USC Undergraduate Collegiate Circle",
-    "region": "Midlands",
-    "categories": "Collegiate",
+    "circle_name": "Lead Like a Woman Circle",
+    "region": "Statewide",
+    "categories": "Issue",
     "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Mary Alexander",
-    "meeting_frequency_message": "TBD",
+    "accepting_members_link": "https://campaignsondemand.wufoo.com/forms/qdisk5i0u2xksl/",
+    "circle_leader_name": "Trish Johnson",
+    "meeting_frequency_message": "on 1st Tuesday of the month at 12 p.m. via Zoom",
     "circle_leader_email": "",
-    "focus_goals": "Our Circle for undergraduate students at USC focuses on helping young women maintain their momentum, building networks, and discovering new opportunities so they can achieve their leadership goals after graduation",
+    "focus_goals": "Our lunch and learn style Circle delves into what female leadership looks like, how we can be and support better leaders, and hear from women in power.",
     "visible": "TRUE"
   },
   {
-    "circle_name": "USC Graduate Student Collegiate Circle",
-    "region": "Midlands",
-    "categories": "Collegiate",
+    "circle_name": "Mentoring and Networking Circle",
+    "region": "Statewide",
+    "categories": "Issue",
     "accepting_members": "Yes",
     "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Elaine Ng",
-    "meeting_frequency_message": "TBD",
+    "circle_leader_name": "Carol Moore",
+    "meeting_frequency_message": "on 1st Thursday of the month at 5:30 p.m. via Zoom",
     "circle_leader_email": "",
-    "focus_goals": "Our Circle is made up of graduate students at USC who want to focus on mentorship, building connections, and meeting inspiring women.",
+    "focus_goals": "We learn strategies for finding mentors, making the most out of your mentor relationship, building a strong professional network, and leadership development.",
     "visible": "TRUE"
   },
   {
@@ -172,11 +136,23 @@
     "region": "Statewide",
     "categories": "Issue",
     "accepting_members": "Yes",
-    "accepting_members_link": "https://campaignsondemand.wufoo.com/forms/q1tbhfb0s0zk5h/",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
     "circle_leader_name": "Karin Sisk",
-    "meeting_frequency_message": "TBD",
+    "meeting_frequency_message": "on 1st Monday of the month at 6 pm",
     "circle_leader_email": "",
     "focus_goals": "Explore the complexities of voting rights as we read “Thank You for Voting” by Erin Geiger Smith and share our thoughts on how things have changed and what action is needed today.",
+    "visible": "TRUE"
+  },
+  {
+    "circle_name": "What's Next Circle",
+    "region": "Statewide",
+    "categories": "Professional",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "Jessica Daly",
+    "meeting_frequency_message": "on Last Wednesday of the month at 5 p.m.",
+    "circle_leader_email": "",
+    "focus_goals": "Led by a professional career counselor, our Circle is for women in periods of transition in their lives wondering \"what's next?\"",
     "visible": "TRUE"
   },
   {
@@ -201,6 +177,30 @@
     "meeting_frequency_message": "TBD",
     "circle_leader_email": "",
     "focus_goals": "Our Circle is for women who are new to real estate investment or interested in learning how to get started.",
+    "visible": "TRUE"
+  },
+  {
+    "circle_name": "USC Undergraduate Collegiate Circle",
+    "region": "Midlands",
+    "categories": "Collegiate",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "Mary Alexander",
+    "meeting_frequency_message": "TBD",
+    "circle_leader_email": "",
+    "focus_goals": "Our Circle for undergraduate students at USC focuses on helping young women maintain their momentum, building networks, and discovering new opportunities so they can achieve their leadership goals after graduation",
+    "visible": "TRUE"
+  },
+  {
+    "circle_name": "USC Graduate Student Collegiate Circle",
+    "region": "Midlands",
+    "categories": "Collegiate",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "Caroline Hulett",
+    "meeting_frequency_message": "TBD",
+    "circle_leader_email": "",
+    "focus_goals": "Our Circle is made up of graduate students at USC who want to focus on mentorship, building connections, and meeting inspiring women.",
     "visible": "TRUE"
   }
 ]
