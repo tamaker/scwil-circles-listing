@@ -202,5 +202,17 @@
     "circle_leader_email": "",
     "focus_goals": "Our Circle is made up of graduate students at USC who want to focus on mentorship, building connections, and meeting inspiring women.",
     "visible": "TRUE"
+  },
+  {
+    "circle_name": "Mental Health Circle",
+    "region": "Statewide",
+    "categories": "Issue",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://campaignsondemand.wufoo.com/forms/qd7f0sd1rxadew/",
+    "circle_leader_name": "Cevonne Carrillo",
+    "meeting_frequency_message": "TBD",
+    "circle_leader_email": "",
+    "focus_goals": "Led by a coordinator from the National Alliance on Mental Illness, our Circle allows members to share their story and hear from others. We talk about everything from mental health 101, creating healthy boundaries, coping strategies, and giving you the support you need.",
+    "visible": "TRUE"
   }
 ]
