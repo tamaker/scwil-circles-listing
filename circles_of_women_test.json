@@ -64,7 +64,7 @@
     "region": "Statewide",
     "categories": "Issue",
     "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "accepting_members_link": "https://campaignsondemand.wufoo.com/forms/q6s0vou00nfjae/",
     "circle_leader_name": "Susan Singler",
     "meeting_frequency_message": "on 3rd Monday of the month at 4 pm",
     "circle_leader_email": "",
@@ -135,7 +135,7 @@
     "circle_name": "Voting Rights Book Club Circle",
     "region": "Statewide",
     "categories": "Issue",
-    "accepting_members": "Yes",
+    "accepting_members": "No",
     "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
     "circle_leader_name": "Karin Sisk",
     "meeting_frequency_message": "on 1st Monday of the month at 6 pm",
@@ -172,9 +172,9 @@
     "region": "Statewide",
     "categories": "Issue",
     "accepting_members": "Yes",
-    "accepting_members_link": "https://campaignsondemand.wufoo.com/forms/q1fm4xjz1fcga2s/",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
     "circle_leader_name": "Elayne Brunson",
-    "meeting_frequency_message": "TBD",
+    "meeting_frequency_message": "on the last Thursday of the month at noon",
     "circle_leader_email": "",
     "focus_goals": "Our Circle is for women who are new to real estate investment or interested in learning how to get started.",
     "visible": "TRUE"
@@ -188,7 +188,7 @@
     "circle_leader_name": "Mary Alexander",
     "meeting_frequency_message": "TBD",
     "circle_leader_email": "",
-    "focus_goals": "Our Circle for undergraduate students at USC focuses on helping young women maintain their momentum, building networks, and discovering new opportunities so they can achieve their leadership goals after graduation",
+    "focus_goals": "Our Circle for undergraduate students at USC focuses on helping young women maintain their momentum, building networks, and discovering new opportunities so they can achieve their leadership goals after graduation.",
     "visible": "TRUE"
   },
   {
@@ -213,6 +213,42 @@
     "meeting_frequency_message": "TBD",
     "circle_leader_email": "",
     "focus_goals": "Led by a coordinator from the National Alliance on Mental Illness, our Circle allows members to share their story and hear from others. We talk about everything from mental health 101, creating healthy boundaries, coping strategies, and giving you the support you need.",
+    "visible": "TRUE"
+  },
+  {
+    "circle_name": "Allen Collegiate Circle",
+    "region": "Midlands",
+    "categories": "Collegiate",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "",
+    "meeting_frequency_message": "TBD",
+    "circle_leader_email": "",
+    "focus_goals": "Our Circle is for students at Allen University to develop their leadership potential, network, learn new skills, and prepare for life after graduation.",
+    "visible": "TRUE"
+  },
+  {
+    "circle_name": "Voorhees Collegiate Circle",
+    "region": "Midlands",
+    "categories": "Collegiate",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "",
+    "meeting_frequency_message": "TBD",
+    "circle_leader_email": "",
+    "focus_goals": "Our Circle is for Voorhees students to find inspiration, maintain momentum for their leadership goals, and network.",
+    "visible": "TRUE"
+  },
+  {
+    "circle_name": "Beaufort/Hilton Head",
+    "region": "Beaufort/Hilton Head",
+    "categories": "Regional",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "",
+    "meeting_frequency_message": "TBD",
+    "circle_leader_email": "",
+    "focus_goals": "Our Circle connects women from the Beaufort Hilton Head region as we come together to connect, learn, and lead.",
     "visible": "TRUE"
   }
 ]
