@@ -30,7 +30,7 @@
     "accepting_members": "Yes",
     "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
     "circle_leader_name": "Buquilla Cannon",
-    "meeting_frequency_message": "on 1st Monday of the month at 6 pm",
+    "meeting_frequency_message": "on 4th Thursday of the month at 7 pm",
     "circle_leader_email": "",
     "focus_goals": "Our Circle is interested in mental health, supporting special needs families, pursuing our dream careers, seeking appointed office, and networking.",
     "visible": "TRUE"
@@ -213,7 +213,7 @@
     "meeting_frequency_message": "TBD",
     "circle_leader_email": "",
     "focus_goals": "Led by a coordinator from the National Alliance on Mental Illness, our Circle allows members to share their story and hear from others. We talk about everything from mental health 101, creating healthy boundaries, coping strategies, and giving you the support you need.",
-    "visible": "TRUE"
+    "visible": "FALSE"
   },
   {
     "circle_name": "Allen Collegiate Circle",
