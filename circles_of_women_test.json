@@ -9,7 +9,7 @@
     "meeting_frequency_message": "on 3rd Monday of the month at 12 p.m. via Zoom",
     "circle_leader_email": "",
     "focus_goals": "Our new Circle is a space for us to take a breath, create time for ourselves, and set boundaries as we learn skills for our leadership journey.",
-    "visible": "TRUE"
+    "visible": "FALSE"
   },
   {
     "circle_name": "Angela's Midlands Circle",
@@ -76,7 +76,7 @@
     "region": "Statewide",
     "categories": "Professional",
     "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "accepting_members_link": "https://campaignsondemand.wufoo.com/forms/qopk8gj0qcvt7s/?fbclid=IwAR0PytQ7C3qJIzsgFNGZpSEMyveWNlKzm_aeO5uqg5LMqdUgxSQmitrzP4A",
     "circle_leader_name": "Barbara Rackes",
     "meeting_frequency_message": "on 2nd Wednesday of the month at 6 pm",
     "circle_leader_email": "",
@@ -153,7 +153,7 @@
     "meeting_frequency_message": "on Last Wednesday of the month at 5 p.m.",
     "circle_leader_email": "",
     "focus_goals": "Led by a professional career counselor, our Circle is for women in periods of transition in their lives wondering \"what's next?\"",
-    "visible": "TRUE"
+    "visible": "FALSE"
   },
   {
     "circle_name": "Hampton Civic Circle",
@@ -165,7 +165,7 @@
     "meeting_frequency_message": "TBD",
     "circle_leader_email": "",
     "focus_goals": "Our Civic Circle is where women from Hampton County come together to solve issues in their community while simultaneously ensuring that each circle member is on a pathway to leadership.",
-    "visible": "TRUE"
+    "visible": "FALSE"
   },
   {
     "circle_name": "Real Estate Investment Circle",
@@ -249,6 +249,6 @@
     "meeting_frequency_message": "TBD",
     "circle_leader_email": "",
     "focus_goals": "Our Circle connects women from the Beaufort Hilton Head region as we come together to connect, learn, and lead.",
-    "visible": "TRUE"
+    "visible": "FALSE"
   }
 ]
