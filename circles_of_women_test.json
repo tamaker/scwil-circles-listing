@@ -1,77 +1,5 @@
 [
   {
-    "circle_name": "Amanda's Upstate Circle",
-    "region": "Upstate",
-    "categories": "Regional",
-    "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Amanda McDougald Scott",
-    "meeting_frequency_message": "on 3rd Monday of the month at 12 p.m. via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "Our new Circle is a space for us to take a breath, create time for ourselves, and set boundaries as we learn skills for our leadership journey.",
-    "visible": "FALSE"
-  },
-  {
-    "circle_name": "Angela's Midlands Circle",
-    "region": "Midlands",
-    "categories": "Regional",
-    "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Angela Rodriguez",
-    "meeting_frequency_message": "on 4th Monday of the month at 6 p.m. via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "Our Circle's goals are to connect and network with more women, learn more about communication across lines - political, race, generation, and making a difference through community engagement.",
-    "visible": "TRUE"
-  },
-  {
-    "circle_name": "Buquilla's Pee Dee Circle",
-    "region": "Pee Dee",
-    "categories": "Regional",
-    "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Buquilla Cannon",
-    "meeting_frequency_message": "on 4th Thursday of the month at 7 pm",
-    "circle_leader_email": "",
-    "focus_goals": "Our Circle is interested in mental health, supporting special needs families, pursuing our dream careers, seeking appointed office, and networking.",
-    "visible": "TRUE"
-  },
-  {
-    "circle_name": "Carol's Midlands Circle",
-    "region": "Midlands",
-    "categories": "Regional",
-    "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Carol Kennedy",
-    "meeting_frequency_message": "on 4th Tuesday of the month at 12 p.m. via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "Together we focus on personal, professional, and political development.",
-    "visible": "FALSE"
-  },
-  {
-    "circle_name": "Dee’s Midlands Circle",
-    "region": "Midlands",
-    "categories": "Regional",
-    "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Dee Bell-Williams",
-    "meeting_frequency_message": "on 4th Wednesday of the month at 6 p.m. via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "We come together each month to build the skills we need on our leadership journeys.",
-    "visible": "FALSE"
-  },
-  {
-    "circle_name": "Disabilities in Action",
-    "region": "Statewide",
-    "categories": "Issue",
-    "accepting_members": "Yes",
-    "accepting_members_link": "https://campaignsondemand.wufoo.com/forms/q6s0vou00nfjae/",
-    "circle_leader_name": "Susan Singler",
-    "meeting_frequency_message": "on 3rd Monday of the month at 4 pm",
-    "circle_leader_email": "",
-    "focus_goals": "Our Circle is focused on reforming of housing policies and waivers at a statewide level, as well as more ADA officers at the local level and a greater awareness among officials of policies and programs.",
-    "visible": "FALSE"
-  },
-  {
     "circle_name": "Entrepreneurs Circle",
     "region": "Statewide",
     "categories": "Professional",
@@ -81,30 +9,6 @@
     "meeting_frequency_message": "on 2nd Wednesday of the month at 6 pm",
     "circle_leader_email": "",
     "focus_goals": "As female entrepreneurs, we share concerns and tips as we celebrate each other's successes and help overcome our challenges.",
-    "visible": "TRUE"
-  },
-  {
-    "circle_name": "Heather’s Lowcountry Circle",
-    "region": "Lowcountry",
-    "categories": "Regional",
-    "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Heather Odom",
-    "meeting_frequency_message": "on 2nd Tuesday of the month at 6 p.m. via Zoom",
-    "circle_leader_email": "",
-    "focus_goals": "We support one another through life’s challenges, push ourselves to meet our goals, and expand our reach.",
-    "visible": "TRUE"
-  },
-  {
-    "circle_name": "Ladies of the River Collegiate Circle",
-    "region": "Lowcountry",
-    "categories": "Collegiate",
-    "accepting_members": "Yes",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Susan Pope",
-    "meeting_frequency_message": "monthly",
-    "circle_leader_email": "",
-    "focus_goals": "Our Circle for female cadets at the Citadel is focused on mentorship, networking, and preparing for life after graduation.",
     "visible": "TRUE"
   },
   {
@@ -132,40 +36,52 @@
     "visible": "TRUE"
   },
   {
-    "circle_name": "Voting Rights Book Club Circle",
+    "circle_name": "Disabilities in Action",
     "region": "Statewide",
     "categories": "Issue",
-    "accepting_members": "No",
-    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Karin Sisk",
-    "meeting_frequency_message": "on 1st Monday of the month at 6 pm",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://campaignsondemand.wufoo.com/forms/q6s0vou00nfjae/",
+    "circle_leader_name": "Susan Singler",
+    "meeting_frequency_message": "on 3rd Monday of the month at 4 pm. Our Circle is on hiatus for the summer and will resume in September.",
     "circle_leader_email": "",
-    "focus_goals": "Explore the complexities of voting rights as we read “Thank You for Voting” by Erin Geiger Smith and share our thoughts on how things have changed and what action is needed today.",
-    "visible": "FALSE"
+    "focus_goals": "Our Circle is focused on reforming of housing policies and waivers at a statewide level, as well as more ADA officers at the local level and a greater awareness among officials of policies and programs.",
+    "visible": "TRUE"
   },
   {
-    "circle_name": "What's Next Circle",
-    "region": "Statewide",
-    "categories": "Professional",
+    "circle_name": "Heather’s Lowcountry Circle",
+    "region": "Lowcountry",
+    "categories": "Regional",
     "accepting_members": "Yes",
     "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Jessica Daly",
-    "meeting_frequency_message": "on Last Wednesday of the month at 5 p.m.",
+    "circle_leader_name": "Heather Odom",
+    "meeting_frequency_message": "on 2nd Tuesday of the month at 6 p.m. via Zoom. Our Circle is on hiatus for the summer and will resume in September.",
     "circle_leader_email": "",
-    "focus_goals": "Led by a professional career counselor, our Circle is for women in periods of transition in their lives wondering \"what's next?\"",
-    "visible": "FALSE"
+    "focus_goals": "We support one another through life’s challenges, push ourselves to meet our goals, and expand our reach.",
+    "visible": "TRUE"
   },
   {
-    "circle_name": "Hampton Civic Circle",
-    "region": "Statewide",
-    "categories": "Civic",
+    "circle_name": "Buquilla's Pee Dee Circle",
+    "region": "Pee Dee",
+    "categories": "Regional",
     "accepting_members": "Yes",
     "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
-    "circle_leader_name": "Cassandra Williams",
-    "meeting_frequency_message": "TBD",
+    "circle_leader_name": "Buquilla Cannon",
+    "meeting_frequency_message": "on 4th Thursday of the month at 7 pm",
     "circle_leader_email": "",
-    "focus_goals": "Our Civic Circle is where women from Hampton County come together to solve issues in their community while simultaneously ensuring that each circle member is on a pathway to leadership.",
-    "visible": "FALSE"
+    "focus_goals": "Our Circle is interested in mental health, supporting special needs families, pursuing our dream careers, seeking appointed office, and networking.",
+    "visible": "TRUE"
+  },
+  {
+    "circle_name": "Ladies of the River Collegiate Circle",
+    "region": "Lowcountry",
+    "categories": "Collegiate",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "Susan Pope",
+    "meeting_frequency_message": "monthly",
+    "circle_leader_email": "",
+    "focus_goals": "Our Circle for female cadets at the Citadel is focused on mentorship, networking, and preparing for life after graduation.",
+    "visible": "TRUE"
   },
   {
     "circle_name": "Real Estate Investment Circle",
@@ -249,6 +165,90 @@
     "meeting_frequency_message": "TBD",
     "circle_leader_email": "",
     "focus_goals": "Our Circle connects women from the Beaufort Hilton Head region as we come together to connect, learn, and lead.",
+    "visible": "FALSE"
+  },
+  {
+    "circle_name": "Voting Rights Book Club Circle",
+    "region": "Statewide",
+    "categories": "Issue",
+    "accepting_members": "No",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "Karin Sisk",
+    "meeting_frequency_message": "on 1st Monday of the month at 6 pm",
+    "circle_leader_email": "",
+    "focus_goals": "Explore the complexities of voting rights as we read “Thank You for Voting” by Erin Geiger Smith and share our thoughts on how things have changed and what action is needed today.",
+    "visible": "FALSE"
+  },
+  {
+    "circle_name": "What's Next Circle",
+    "region": "Statewide",
+    "categories": "Professional",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "Jessica Daly",
+    "meeting_frequency_message": "on Last Wednesday of the month at 5 p.m.",
+    "circle_leader_email": "",
+    "focus_goals": "Led by a professional career counselor, our Circle is for women in periods of transition in their lives wondering \"what's next?\"",
+    "visible": "FALSE"
+  },
+  {
+    "circle_name": "Hampton Civic Circle",
+    "region": "Statewide",
+    "categories": "Civic",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "Cassandra Williams",
+    "meeting_frequency_message": "TBD",
+    "circle_leader_email": "",
+    "focus_goals": "Our Civic Circle is where women from Hampton County come together to solve issues in their community while simultaneously ensuring that each circle member is on a pathway to leadership.",
+    "visible": "FALSE"
+  },
+  {
+    "circle_name": "Carol's Midlands Circle",
+    "region": "Midlands",
+    "categories": "Regional",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "Carol Kennedy",
+    "meeting_frequency_message": "on 4th Tuesday of the month at 12 p.m. via Zoom",
+    "circle_leader_email": "",
+    "focus_goals": "Together we focus on personal, professional, and political development.",
+    "visible": "FALSE"
+  },
+  {
+    "circle_name": "Dee’s Midlands Circle",
+    "region": "Midlands",
+    "categories": "Regional",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "Dee Bell-Williams",
+    "meeting_frequency_message": "on 4th Wednesday of the month at 6 p.m. via Zoom",
+    "circle_leader_email": "",
+    "focus_goals": "We come together each month to build the skills we need on our leadership journeys.",
+    "visible": "FALSE"
+  },
+  {
+    "circle_name": "Amanda's Upstate Circle",
+    "region": "Upstate",
+    "categories": "Regional",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "Amanda McDougald Scott",
+    "meeting_frequency_message": "on 3rd Monday of the month at 12 p.m. via Zoom",
+    "circle_leader_email": "",
+    "focus_goals": "Our new Circle is a space for us to take a breath, create time for ourselves, and set boundaries as we learn skills for our leadership journey.",
+    "visible": "FALSE"
+  },
+  {
+    "circle_name": "Angela's Midlands Circle",
+    "region": "Midlands",
+    "categories": "Regional",
+    "accepting_members": "Yes",
+    "accepting_members_link": "https://scwomenlead.net/circles-of-women-in-leadership-3/join-a-circle/",
+    "circle_leader_name": "Angela Rodriguez",
+    "meeting_frequency_message": "on 4th Monday of the month at 6 p.m. via Zoom",
+    "circle_leader_email": "",
+    "focus_goals": "Our Circle's goals are to connect and network with more women, learn more about communication across lines - political, race, generation, and making a difference through community engagement.",
     "visible": "FALSE"
   }
 ]
